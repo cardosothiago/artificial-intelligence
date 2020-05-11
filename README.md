@@ -2,7 +2,7 @@
 
  - Screen possible patients with Covid-19 and guide.
  
- ## Run:
+ ## Run (in terminal):
  
  - git clone https://github.com/cardosothiago/inteligencia-artificial.git
  - cd inteligencia-artificial
