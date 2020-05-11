@@ -4,7 +4,7 @@
  
  ## Run:
  
-- Install [Python](https://www.python.org/downloads/);
+- Install [python](https://www.python.org/downloads/);
 - Install [pyswip](https://pypi.org/project/pyswip/);
 - In terminal: `git clone https://github.com/cardosothiago/inteligencia-artificial.git`;
 - In terminal: `cd inteligencia-artificial`;
