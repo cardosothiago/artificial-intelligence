@@ -1,6 +1,6 @@
 ## Objective:
 
- - Screen possible patients with Covid-19 and guide.
+ - Check patients in the knowledge base (.pl) and guide the necessary treatment.
  
 ## Requiriments:
 
