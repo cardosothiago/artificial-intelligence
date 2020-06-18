@@ -4,9 +4,9 @@
  
 ## Requiriments:
 
-- [Python 2.7 or higher](https://www.python.org/downloads/);
+- [Python 2.7 or higher](https://www.python.org/downloads);
 - [SWI-Prolog](https://www.swi-prolog.org/Download.html);
-- [Pyswip](https://pypi.org/project/pyswip/).
+- [Pyswip](https://pypi.org/project/pyswip).
 
 
 ## Run:
